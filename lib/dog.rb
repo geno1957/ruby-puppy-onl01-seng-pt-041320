@@ -25,7 +25,7 @@ end
 end 
 
 def save 
-  self.push 
+  @@all << self.push 
     
 end 
 
