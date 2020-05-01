@@ -20,10 +20,11 @@ def self.print_all
   puts "{#name}"
 end 
 
-def save 
-  @name = name
-	@@all << self
-	end 
+def save
+
+  def self.clear_all
+    @@all.clear
+  end
 
 end
  
