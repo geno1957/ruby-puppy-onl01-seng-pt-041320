@@ -21,6 +21,7 @@ def self.print_all
 end 
 
 def save
+end 
 
   def self.clear_all
     @@all.clear
