@@ -20,6 +20,9 @@ def self.print_all
   puts "{#name}"
 end 
 
+def save 
+  
+
   def self.clear_all
     @@all.clear
   end
