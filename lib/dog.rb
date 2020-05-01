@@ -26,7 +26,7 @@ end
 
 def save 
   @@all.push << self
-    @@all << self
+    
 end 
 
   def self.clear_all
