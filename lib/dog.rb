@@ -25,7 +25,8 @@ end
 end 
 
 def save 
-  
+  @@all.each do |dog|
+    
 end 
 
   def self.clear_all
