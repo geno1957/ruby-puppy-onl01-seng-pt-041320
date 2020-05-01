@@ -25,7 +25,7 @@ end
 end 
 
 def save 
-  @@all.each do |dog|
+  self.push 
     
 end 
 
