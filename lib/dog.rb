@@ -21,6 +21,8 @@ def self.print_all
 end 
 
 def save 
+@name = name
+		@@all << self save 
   
 
   def self.clear_all
